@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "math.h"
-#include "p99/p99.h"
+#include "p99/p99.h" //http://p99.gforge.inria.fr/p99-html/
 #include <stdlib.h>
 
 #define MONADAPPLICATION(t, t_, x, esc) \
